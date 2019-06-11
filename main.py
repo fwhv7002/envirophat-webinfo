@@ -51,4 +51,4 @@ def home():
 
 
 if __name__ == '__main__':
-    app.run(host='192.198.3.21', port=HTTP_PORT, threaded=True)
+    app.run(host='192.168.3.21', port=HTTP_PORT, threaded=True)
